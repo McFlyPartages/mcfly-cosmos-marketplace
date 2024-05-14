@@ -1,0 +1,9 @@
+{
+    "name": "Shynet",
+    "longDescription": "<p>Shynet est un outil d'analyse Web respectueux de la vie privée. Il recueille des informations sur les visiteurs d'un site Web sans utiliser de cookies. Contrairement à de nombreux autres outils d'analyse, Shynet ne collecte aucune donnée personnelle des visiteurs. Shynet est open source et peut être auto-hébergé.< /p>",
+    "description": "Shynet est un outil d'analyse Web respectueux de la vie privée.",
+    "tags": ["Web Analytics", "privacy", "self-hosted"],
+    "repository": "https://github.com/milesmcc/shynet",
+    "image": "https://hub.docker.com/r/milesmcc/shynet",
+    "supported_architectures": ["amd64", "arm64"]
+}
