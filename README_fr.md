@@ -8,5 +8,5 @@ Forkez ce repo, puis configurez le fichier config.json avec vos propres données
 
 Vous pouvez ajouter votre propre application dans le dossier, soit en utilisant les fichiers cosmos-compose.json, soit les fichiers docker-compose.yml.
 
-Par exemple, ce repo est `https://github.com/azukaar/cosmos-marketplace-example` mais les pages sont sous `https://azukaar.github.io/cosmos-marketplace-example`. Afin d'ajouter ce repo à Cosmos, vous devez ajouter `https://azukaar.github.io/cosmos-marketplace-example/servapps.json` à la liste des sources dans les paramètres de Cosmos.
+Par exemple, ce repo est `https://github.com/McFlyPartagesr/mcfly-cosmos-marketplace` mais les pages sont sous `https://McFlyPartages.github.io/mcfly-cosmos-marketplace`. Afin d'ajouter ce repo à Cosmos, vous devez ajouter `https://McFlyPartages.github.io/mcfly-cosmos-marketplace/servapps.json` à la liste des sources dans les paramètres de Cosmos.
 
